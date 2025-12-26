@@ -1,6 +1,9 @@
 # datenbanken-grundlagen
 Dieses Repository enthält alle Codebeispiele, Übungen und Zusatzmaterialien
-zum Buch **„SQL &amp; Python in der Praxis: Datenbank-Management mit SQLite“** von Klaus-Werner Schneider.
+zum Buch
+
+**„SQL &amp; Python in der Praxis: Datenbank-Management mit SQLite“** 
+von Klaus-Werner Schneider.
 
 ## Zielgruppe
 - Berufsschüler:innen der IT-Berufe
