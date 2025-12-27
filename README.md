@@ -58,15 +58,15 @@ Die in diesem Repository enthaltenen Codebeispiele stehen unter der
 MIT License.
 
 Das bedeutet:
-	•	Nutzung, Veränderung und Weitergabe sind erlaubt
-	•	auch für kommerzielle Zwecke
-	•	unter Nennung des Urhebers
+- Nutzung, Veränderung und Weitergabe sind erlaubt
+- auch für kommerzielle Zwecke
+- unter Nennung des Urhebers
 
 Der vollständige Lizenztext befindet sich in der Datei LICENSE.
 
 ---
 
-##Hinweis zum Buch
+## Hinweis zum Buch
 
 Dieses Repository enthält keinen vollständigen Buchinhalt.
 Das Buch selbst ist urheberrechtlich geschützt und separat erhältlich.
