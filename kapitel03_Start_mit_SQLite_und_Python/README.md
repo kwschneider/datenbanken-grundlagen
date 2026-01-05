@@ -1,1 +1,0 @@
-Platzhalter – Inhalte folgen.
