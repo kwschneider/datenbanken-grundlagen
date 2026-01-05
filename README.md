@@ -21,19 +21,8 @@ Begleitmaterial zum gleichnamigen Lehrbuch. Die Materialien dienen der Vertiefun
 
 ## Struktur des Repositories
 
-Die Inhalte sind **kapitelweise organisiert** und entsprechen dem Aufbau des Buches:
-
-kapitel01_einfuehrung/
-kapitel02_relationales_modell/
-kapitel03_sql_select/
-kapitel04_sql_insert_update_delete/
-kapitel05_joins/
-kapitel06_normalisierung/
-beispieldaten/
-loesungen/
-
-Jeder Kapitelordner enthält eine eigene README.md mit kurzen Hinweisen
-zum jeweiligen Inhalt.
+Die Inhalte sind **kapitelweise organisiert** und entsprechen dem Aufbau des Buches. Es sind nur Ordner für Kapitel vorhanden, 
+wenn dort Code-Beispiele besprochen wurden.
 
 ---
 
