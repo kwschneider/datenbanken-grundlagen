@@ -1,7 +1,7 @@
 # Hinweise für Lehrkräfte
 
 Dieses GitHub-Repository stellt begleitende Materialien zum Buch
-**„Datenbanken – Grundlagen“** bereit.
+**„SQL & Python in der Praxis: Datenbank-Management mit SQLite“** bereit.
 
 Die Nutzung der Materialien ist **ohne Vorkenntnisse zu GitHub oder Git**
 möglich.
